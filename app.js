@@ -16,5 +16,4 @@ function handleBulbOnOff() {
     h1El.innerHTML = "Bulb on"
     btnEl.innerHTML = "Bulb off"
    }
-//    console.log(isOpen);
 }
